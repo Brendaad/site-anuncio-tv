@@ -132,3 +132,11 @@ section {
 .div-condicoes .realce-underline {
 color: #78d4ff;
 }
+
+.img-wpp {
+    position:fixed;
+    bottom: 2.0rem;
+    right: 2.0rem;
+    width: 8.5rem;
+
+}
